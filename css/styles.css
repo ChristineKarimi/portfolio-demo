@@ -1,0 +1,23 @@
+.header {
+    background-image: url("https://capitalaspower.com/wp-content/uploads/2013/05/HD-Wallpapers-For-Background-8.jpg");
+    height: 60vh;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h1, h3{
+    text-align: center;
+    color: aliceblue;
+    position: relative;
+    top: 34%;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+li{
+    list-style-type: none;
+}
